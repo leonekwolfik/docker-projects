@@ -1,1 +1,4 @@
 *.tif
+stability-ai-generative-models/generative-models/
+stability-ai-generative-models/weights/stable-diffusion-xl-base-1.0/
+stability-ai-generative-models/weights/stable-diffusion-xl-refiner-1.0/
